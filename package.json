@@ -1,0 +1,25 @@
+{
+  "name": "machina-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damienwhaley/machina-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damienwhaley/machina-example/issues"
+  },
+  "homepage": "https://github.com/damienwhaley/machina-example#readme",
+  "dependencies": {
+    "machina": "git+https://github.com/ifandelse/machina.js.git#defect-hiearchical-rehydration"
+  },
+  "devDependencies": {
+    "lodash": "^4.6.1"
+  }
+}
